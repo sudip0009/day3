@@ -1,0 +1,10 @@
+ Id CommandLine                                                                                                              
+  -- -----------                                                                                                              
+   1 try { . "c:\Users\asus\AppData\Local\Programs\Microsoft VS Code\df53daabb1\resources\app\out\vs\workbench\contrib\term...
+   2 git add.                                                                                                                 
+   3 git add .                                                                                                                
+   4 dit commit -m "new file changes"                                                                                         
+   5 git commit -m "new file changes"                                                                                         
+   6 git push .                                                                                                               
+   7 git push origin master                                                                                                   
+   8 git status                                                                                                               
